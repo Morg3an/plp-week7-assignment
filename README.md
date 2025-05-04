@@ -73,5 +73,5 @@ To run the analysis:
 ---
 
 **Author:** Morgan  
-**Course:** Data Analysis with Python  
+**Course:** Power Learn Project Software Development, February Cohort
 **Date:** May 2025
